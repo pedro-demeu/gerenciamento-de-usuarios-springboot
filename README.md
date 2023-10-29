@@ -42,11 +42,11 @@ O aplicativo estará disponível em http://localhost:8080.
 
 ### Endpoints da API
 
-- **GET /api/users:** Retorna a lista de usuários.
-- **GET /api/users/{id}:** Retorna os detalhes de um usuário específico.
-- **POST /api/users:** Cria um novo usuário.
-- **PUT /api/users/{id}:** Atualiza um usuário existente.
-- **DELETE /api/users/{id}:** Exclui um usuário.
+- **GET /users:** Retorna a lista de usuários.
+- **GET /users/{id}:** Retorna os detalhes de um usuário específico.
+- **POST /users:** Cria um novo usuário.
+- **PUT /users/{id}:** Atualiza um usuário existente.
+- **DELETE /users/{id}:** Exclui um usuário.
 
 ### Configuração do Banco de Dados
 
